@@ -4208,7 +4208,7 @@
 #define __enabled_CONFIG_COMPAT_BRK_MODULE 0
 #define __enabled_CONFIG_MPU_SENSORS_KXTF9 0
 #define __enabled_CONFIG_MPU_SENSORS_KXTF9_MODULE 0
-#define CONFIG_LOCALVERSION "-uniquedroid-x3-0.0.2"
+#define CONFIG_LOCALVERSION "-uniquedroid-x3-0.0.6"
 #define __enabled_CONFIG_RADIO_ADAPTERS 0
 #define __enabled_CONFIG_RADIO_ADAPTERS_MODULE 0
 #define __enabled_CONFIG_KEYBOARD_XTKBD 0
