@@ -55,7 +55,7 @@
 
 //                                                                
 #if defined(CONFIG_LGE_NFC_PN544)
-#include </home/t-800/android/kernel/lg/ud/arch/arm/mach-tegra/lge/x3/board-lge-nfc.h>
+#include <board-lge-nfc.h>
 #endif
 //                                                                
 
